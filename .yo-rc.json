@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.cdsadmin.business"
+    },
+    "jhipsterVersion": "6.5.1",
+    "applicationType": "microservice",
+    "baseName": "cdsbusinesservice",
+    "packageName": "com.cdsadmin.business",
+    "packageFolder": "com/cdsadmin/business",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZjQxMmE2ODI5ZjM5N2ViOGY3YTllOWFmZjNhYmFlMTY0NmRhMDQyODNmOWRiZWFlNzRhMzRhNGFjODAyMjE1ZWM4YmJlZWVmZmUwOGFjNDJjNGExZWU4NzQ2YmQ2MGU5Yzk3MWM0MzUyZGJhZDhiY2IzMDRkZTcyMjlkYTIzYjI=",
+    "embeddableLaunchScript": false,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
